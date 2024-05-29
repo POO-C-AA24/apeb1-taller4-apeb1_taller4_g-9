@@ -15,6 +15,15 @@ public class ProblemaDos {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Empleado obj = new Empleado();
+        int opc, menu;
+        do {
+            opc = obj.menu();
+            switch(opc){
+                
+            }
+            
+        } while (true);
     }
     
 }
